@@ -1,10 +1,8 @@
 
 # Browsersync
 
-From the terminal, pop in:
+忙しいウェブ開発者へ
 
-  ```yo reveal:slide "Slide Title"```
+2016.11.5 (土) サト研 (妹)
 
-Available options:
-
- ```--markdown --attributes --notes```
+まさくら とも
