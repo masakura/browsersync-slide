@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Browsersync",
+    "packageVersion": "0.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "masakura",
+    "githubRepository": "browsersync-slide"
+  }
+}
